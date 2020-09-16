@@ -1,14 +1,14 @@
 # node-weather-broadcast
 Node weather broadcast
 
-#Hosting Details:
+# Hosting Details:
 Hosted in:
 https://britta-weather-app.herokuapp.com/
 
-#Technology used:
+# Technology used:
 NodeJS,HTML,CSS,weatherstack API and mapbox 
 
-#Run the application locally:
+# Run the application locally:
 
 1. git pull the repository to local
 2. Run <<npm start>> should run the application in local
